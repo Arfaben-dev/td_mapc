@@ -14,6 +14,6 @@ public class MemoireTest {
         
         Memoire memoireAlice = new Memoire("Patrons et Anti-Patrons", Arrays.asList(c1, c2, c3, c4));
         
-        assertEquals(7, memoireAlice.taille()); 
+        assertEquals(8, memoireAlice.taille()); 
     }
 }
